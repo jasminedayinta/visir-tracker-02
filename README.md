@@ -1,6 +1,6 @@
 # Practical Assignment 2
 Please put your name (or names if you work in a group) here:  
-**Name**: .......
+**Name**: Jasmine Dayinta
 ## Problem 2.1
 ### Feature Extraction (Points 30)
 1. Fork the current repository
